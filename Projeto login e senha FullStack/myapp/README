@@ -1,0 +1,8 @@
+#Fazer um programa utilizando a arquitetura MVC em python flask que grava dados no banco e 
+lista estes dados gravados.
+
+OS dados gravados devem ser o nome do usuario , email e senha .
+
+
+A entrega deve ser um projeto github com a aplicacao testada e funcionando.
+
